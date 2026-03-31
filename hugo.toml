@@ -2,7 +2,6 @@
 baseURL = 'https://infinite-improbability-drive.vercel.app/' # Or your chosen domain
 languageCode = 'en-ca'
 title = 'The Infinite Improbability Drive'
-#theme = 'PaperMod'
 
 # hugo.toml additions
 [params]
