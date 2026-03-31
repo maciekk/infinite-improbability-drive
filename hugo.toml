@@ -30,7 +30,7 @@ title = 'The Infinite Improbability Drive'
         Content = "Documenting the transition to AI and late-stage startups."
 
     [params.socialIcons]
-        - name = "github"
+          name = "github"
           url = "https://github.com/maciekk"
 
 [[menu.main]]
