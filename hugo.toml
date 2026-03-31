@@ -34,9 +34,9 @@ title = 'The Infinite Improbability Drive'
         url = "https://github.com/maciekk"
 
 [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
     weight = 10
 
 [[menu.main]]
