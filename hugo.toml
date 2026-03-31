@@ -47,4 +47,6 @@ title = 'The Infinite Improbability Drive'
 
 [module]
   [[module.imports]]
-    path = "github.com/adityatelange/hugo-PaperMod"
+    #path = "github.com/adityatelange/hugo-PaperMod"
+    #path = "github.com/mirus-ua/hugo-theme-re-terminal"
+    path = "github.com/panr/hugo-theme-terminal"
