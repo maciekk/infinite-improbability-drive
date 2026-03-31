@@ -9,7 +9,7 @@ theme = 'PaperMod'
     env = "production"
     title = "The Infinite Improbability Drive"
     description = "18 years at Google. Brain the size of a planet. Currently wrestling with RAG."
-    author = "Maciek"
+    author = "Maciej Kalisiak"
 
     # Enable the "Search" button (H2G2 fans love a good search for the Question)
     ShowReadingTime = true
