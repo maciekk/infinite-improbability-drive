@@ -1,0 +1,25 @@
+# hugo.toml
+baseURL = 'https://infinite-improbability-drive.vercel.app/' # Or your chosen domain
+languageCode = 'en-ca'
+title = 'The Infinite Improbability Drive'
+theme = 'PaperMod'
+
+# hugo.toml additions
+[params]
+    env = "production"
+    title = "The Infinite Improbability Drive"
+    description = "18 years at Google. Brain the size of a planet. Currently wrestling with RAG."
+    author = "Maciek"
+
+    # Enable the "Search" button (H2G2 fans love a good search for the Question)
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+
+    [params.profileMode]
+        enabled = true
+        title = "The Infinite Improbability Drive"
+        subtitle = "Probability of this blog being useful: 2^276,709 to 1 against."
+        imageUrl = "assets/don-t-panic--dan-gerhard-01.png" # Swap for a custom Zaphod/Marvin icon later
