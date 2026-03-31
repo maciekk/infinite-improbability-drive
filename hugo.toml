@@ -29,9 +29,9 @@ title = 'The Infinite Improbability Drive'
         Title = "Welcome to the Heart of Gold"
         Content = "Documenting the transition to AI and late-stage startups."
 
-    [params.socialIcons]
-          name = "github"
-          url = "https://github.com/maciekk"
+    [[params.socialIcons]]
+        name = "github"
+        url = "https://github.com/maciekk"
 
 [[menu.main]]
     identifier = "posts"
