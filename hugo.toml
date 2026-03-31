@@ -23,6 +23,28 @@ title = 'The Infinite Improbability Drive'
         subtitle = "Probability of this blog being useful: 2^276,709 to 1 against."
         imageUrl = "assets/don-t-panic--dan-gerhard-01.png" # Swap for a custom Zaphod/Marvin icon later
 
+    # To show a list of posts on the home page, ensure this is NOT active 
+    # OR set up homeInfoParams instead.
+    [params.homeInfoParams]
+        Title = "Welcome to the Heart of Gold"
+        Content = "Documenting the transition to AI and late-stage startups."
+
+    [params.socialIcons]
+        - name = "github"
+          url = "https://github.com/maciekk"
+
+[[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+
 [module]
   [[module.imports]]
     path = "github.com/adityatelange/hugo-PaperMod"
